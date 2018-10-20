@@ -1,2 +1,2 @@
 # swcarpentry.github.io
-Website for Software Carpentry on GitHub
+This repo handles redirects for the swcarpentry.github.io website.
